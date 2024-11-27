@@ -49,6 +49,7 @@ and [Launch Fusion on Mac](#launch-fusion-on-mac).
 
 - [Download](https://unity.com/download) Unity
 - [Download](https://www.unrealengine.com/en-US/download) Unreal Engine
+- [Download](https://godotengine.org/download/windows/) Godot
 
 ## Raspberry Pi & Arduino
 
