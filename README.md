@@ -20,6 +20,7 @@ Links for all softwares used in 582 Multimedia
 ## Motion Graphics
 
 - [Download](https://cavalry.scenegroup.co/pricing/#Options) Cavalry
+- [Download](https://www.synfig.org/) Synfig Studio
 
 ## 3D Software
 
