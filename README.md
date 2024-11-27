@@ -10,6 +10,7 @@ Links for all softwares used in 582 Multimedia
 ## Design Tools
 
 - [Download](https://www.figma.com/downloads/) Figma [Education Access](https://www.figma.com/education/)
+- [Download](https://krita.org/en/download/) Krita
 
 ## Font / Typography
 
@@ -28,6 +29,8 @@ Links for all softwares used in 582 Multimedia
 
 View additional notes regarding how to [Update Fusion Manually](#update-fusion-manually)
 and [Launch Fusion on Mac](#launch-fusion-on-mac).
+
+-[Download](https://www.wings3d.com/download-2/) Wings3D
 
 ## 3D Printing
 
