@@ -20,7 +20,7 @@ Links for all softwares used in 582 Multimedia
 ## Motion Graphics
 
 - [Download](https://cavalry.scenegroup.co/pricing/#Options) Cavalry
-- [Download](https://www.synfig.org/) Synfig Studio
+- [Download](https://synfig.gumroad.com/l/synfig) Synfig Studio
 
 ## 3D Software
 
@@ -40,6 +40,7 @@ and [Launch Fusion on Mac](#launch-fusion-on-mac).
 ## Real-time interactive
 
 - [Download](https://derivative.ca/download) TouchDesigner
+- [Download](https://puredata.info/downloads) Pure Data
 
 ## Augmented Reality
 
