@@ -22,6 +22,7 @@ Links for all softwares used in 582 Multimedia
 - [Download](https://cavalry.scenegroup.co/pricing/#Options) Cavalry
 - [Download](https://synfig.gumroad.com/l/synfig) Synfig Studio
 - [Download](https://processing.org/download) Processing
+- [Download](https://obsproject.com/) OBS
 
 ## 3D Software
 
