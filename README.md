@@ -89,6 +89,13 @@ If `python --version` doesn't work use `pip` or `Python.exe` (pc) instead.
 - [Download](https://derivative.ca/download) Touch Designer on Teacher stations
 - [Download](https://zoom.us/download) Zoom software for Teacher station
 
+## LUTs (Video Look Up Tables)
+
+### Lumix S5
+
+- [LUT(Look Up Table) for V709 conversion of V-Log and V-LogL](https://av.jpn.support.panasonic.com/support/global/cs/dsc/download/lut/index.html)
+- [LUT(Look Up Table) for V-Log/V-Gamut conversion of BS1H / S1H / S1 / S5 / S5M2 / S5M2X / BGH1 / GH5S / GH6 / GH7 / G9M2 RAW output data](https://av.jpn.support.panasonic.com/support/global/cs/dsc/download/lut/s1h_raw_lut/index.html)
+
 ## Additional Notes
 
 ### Update Fusion Manually
