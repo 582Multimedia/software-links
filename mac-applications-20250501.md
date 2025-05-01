@@ -1,0 +1,98 @@
+  - 
+  - Adobe Creative Cloud 
+  - Adobe Acrobat DC 
+  - Adobe After Effects 2024 
+  - Adobe Animate 2024 
+  - Adobe Audition 2024 
+  - Adobe Bridge 2024 
+  - Adobe Character Animator 2024 
+  - Adobe Dimension 
+  - Adobe Dreamweaver 2021 
+  - Adobe Illustrator 2024 
+  - Adobe InCopy 2024 
+  - Adobe InDesign 2024 
+  - Adobe Lightroom Classic 
+  - Adobe Media Encoder 2024 
+  - Adobe Photoshop 2024 
+  - Adobe Premiere Pro 2024 
+  - Adobe Premiere Rush 2.0 
+  - Adobe Substance 3D Designer 
+  - Adobe Substance 3D Painter 
+  - Adobe Substance 3D Sampler 
+  - Adobe Substance 3D Stager 
+  - Adobe XD 
+  - Alertus Desktop.app 
+  - App Store.app 
+  - Arduino IDE.app 
+  - Automator.app 
+  - balenaEtcher.app 
+  - Books.app 
+  - Calculator.app 
+  - Calendar.app 
+  - Chess.app 
+  - Clock.app 
+  - Contacts.app 
+  - Dictionary.app 
+  - FaceTime.app 
+  - Figma.app 
+  - FindMy.app 
+  - Firefox.app 
+  - Font Book.app 
+  - FontBase.app 
+  - Freeform.app 
+  - Google Chrome.app 
+  - Home.app 
+  - Image Capture.app 
+  - Image Playground.app 
+  - iPhone Mirroring.app 
+  - KeeWeb.app 
+  - Keynote.app 
+  - Launchpad.app 
+  - Mail.app 
+  - Maps.app 
+  - Maxon Cinema 4D 2024 
+  - Messages.app 
+  - Microsoft Defender.app 
+  - Microsoft Excel.app 
+  - Microsoft OneNote.app 
+  - Microsoft Outlook.app 
+  - Microsoft PowerPoint.app 
+  - Microsoft Teams.app 
+  - Microsoft Word.app 
+  - Mission Control.app 
+  - Music.app 
+  - News.app 
+  - Notes.app 
+  - Numbers.app 
+  - OneDrive.app 
+  - Pages.app 
+  - Passwords.app 
+  - Photo Booth.app 
+  - Photos.app 
+  - Podcasts.app 
+  - Preview.app 
+  - QuickTime Player.app 
+  - Rectangle.app 
+  - Reminders.app 
+  - Safari.app 
+  - Shortcuts.app 
+  - Siri.app 
+  - Sourcetree.app 
+  - Stickies.app 
+  - Stocks.app 
+  - System Settings.app 
+  - TextEdit.app 
+  - Time Machine.app 
+  - Tips.app 
+  - TouchDesigner.app 
+  - TV.app 
+  - Utilities 
+  - Visual Studio Code.app 
+  - VLC.app 
+  - VoiceMemos.app 
+  - Wacom Tablet.localized 
+  - Weather.app 
+  - Xcode.app 
+  - Xerox PowerENGAGE.app 
+  - XeroxPEInstallationCompanion.app 
+  - zoom.us.app
