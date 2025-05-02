@@ -121,8 +121,21 @@ If `python --version` doesn't work use `pip` or `Python.exe` (pc) instead.
 - [The complete guide on “How to learn Cavalry app”](https://www.linkedin.com/pulse/complete-guide-how-learn-cavalry-app-elena-kudriavtseva-ubikc/)
 
 
-### Mac applications 20250501 M114-00
-  - 
+### general notes on images
+ - no icons on desktop (mostly a PC problem)
+ - minimal icons in Dock on Mac
+   - finder
+   - settings
+   - chrome & firefox
+   - Teams
+   - Adobe Ps, Ai, Id, Ae, Pr
+   - VSC
+   - Touch Designer
+   - Fusion 360
+- Mac enable wifi for AirDrop?
+   
+
+### Mac applications 20250501 M114-00 (copied from Applications folder)
   - Adobe Creative Cloud 
   - Adobe Acrobat DC 
   - Adobe After Effects 2024 
@@ -221,7 +234,7 @@ If `python --version` doesn't work use `pip` or `Python.exe` (pc) instead.
   - XeroxPEInstallationCompanion.app 
   - zoom.us.app
 
-  ## PC Apps 20250501 (Student PC)
+  ## PC Apps 20250501 (Student PC list using wmic cmd)
     - Node,InstallDate,Name,Vendor,Version
   - Office 16 Click-to-Run Extensibility Component,Microsoft Corporation,16.0.14332.20416
   - Office 16 Click-to-Run Localization Component,Microsoft Corporation,16.0.14332.20375
