@@ -43,6 +43,7 @@ and [Launch Fusion on Mac](#launch-fusion-on-mac).
 
 - [Download](https://derivative.ca/download) TouchDesigner
 - [Download](https://puredata.info/downloads) Pure Data
+- [Download](https://ossia.io/) Ossia Score
 
 ## Augmented Reality
 
