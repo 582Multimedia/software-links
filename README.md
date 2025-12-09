@@ -12,6 +12,13 @@ Links for all softwares used in 582 Multimedia
 - [Download](https://www.figma.com/downloads/) Figma [Education Access](https://www.figma.com/education/)
 - [Download](https://krita.org/en/download/) Krita
 
+
+## Code editor and extensions
+
+- [Download](https://code.visualstudio.com/) VS Code
+- [Install](https://marketplace.visualstudio.com/items?itemName=platformio.platformio-ide) PlatformIO IDE (Need admin access to finish installing after restarting VSCode)
+- [Download](https://doc.gold.ac.uk/~mas01rf/Wekinator/downloads/) Wekinator
+
 ## Font / Typography
 
 - [Download](https://fontba.se/) Font Base
@@ -61,9 +68,8 @@ and [Launch Fusion on Mac](#launch-fusion-on-mac).
 - [Download](https://www.arduino.cc/en/software) Arduino IDE
 - [Download](https://www.raspberrypi.com/software/) Raspberry Pi Imager
 
-## Code editor and Source (git) Tracking
+## Source (git) Tracking and FTP
 
-- [Download](https://code.visualstudio.com/) VS Code
 - [Download](https://www.sourcetreeapp.com/) Sourcetree
 - [Download](https://filezilla-project.org/download.php?type=client) FileZilla Client
 
@@ -88,7 +94,7 @@ If `python --version` doesn't work use `pip` or `Python.exe` (pc) instead.
 ## Teacher stations
 
 - [Download](https://derivative.ca/download) Touch Designer on Teacher stations
-- [Download](https://zoom.us/download) Zoom software for Teacher station
+<!-- - [Download](https://zoom.us/download) Zoom software for Teacher station -->
 
 ## LUTs (Video Look Up Tables)
 
