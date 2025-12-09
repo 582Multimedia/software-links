@@ -1,0 +1,129 @@
+# 
+# Adobe Acrobat DC 
+# Adobe Aero 2022  
+# Adobe After Effects 2025 
+# Adobe Animate 2024 
+# Adobe Audition 2025 
+# Adobe Bridge 2025 
+# Adobe Character Animator 2025 
+# Adobe Creative Cloud 
+# Adobe Dimension 
+# Adobe Dreamweaver 2021 
+# Adobe Illustrator 2025 
+# Adobe InCopy 2025 
+# Adobe InDesign 2025 
+# Adobe Lightroom Classic 
+# Adobe Media Encoder 2025 
+# Adobe Photoshop 2025 
+# Adobe Premiere Pro 2025 
+# Adobe Premiere Rush 2.0 
+# Adobe Substance 3D Designer 
+# Adobe Substance 3D Painter 
+# Adobe Substance 3D Sampler 
+# Adobe Substance 3D Stager 
+# Adobe XD 
+# Alertus Desktop.app 
+# App Store.app 
+# Arduino IDE.app 
+# Atom.app 
+# Audacity.app 
+# Automator.app 
+# balenaEtcher.app 
+# Blender.app 
+# Books.app 
+# Calculator.app 
+# Calendar.app 
+# Cavalry.app 
+# Chess.app 
+# Clock.app 
+# Contacts.app 
+# Dictionary.app 
+# Epic Games Launcher.app 
+# Epson Label Editor Lite.app 
+# FaceTime.app 
+# Figma.app 
+# FileZilla Pro.app 
+# FindMy.app 
+# Firefox.app 
+# Font Book.app 
+# FontBase.app 
+# FontForge.app 
+# Freeform.app 
+# GitHub Desktop.app 
+# Google Chrome.app 
+# HandBrake.app 
+# Home.app 
+# Image Capture.app 
+# Image Playground.app 
+# iPhone Mirroring.app 
+# KeeWeb.app 
+# Keynote.app 
+# krita.app 
+# Launchpad.app 
+# Mail.app 
+# Maps.app 
+# Messages.app 
+# Microsoft Defender.app 
+# Microsoft Excel.app 
+# Microsoft OneNote.app 
+# Microsoft Outlook.app 
+# Microsoft PowerPoint.app 
+# Microsoft Teams.app 
+# Microsoft Word.app 
+# Mission Control.app 
+# MultiPresenter.app 
+# Music.app 
+# News.app 
+# Notes.app 
+# Numbers.app 
+# OBS.app 
+# OneDrive.app 
+# Original Prusa Drivers 
+# ossia score.app 
+# Pages.app 
+# Passwords.app 
+# Pd-0.55-2.app 
+# Photo Booth.app 
+# Photos.app 
+# Podcasts.app 
+# Preview.app 
+# Processing.app 
+# Purr-Data.app 
+# Python 3.13 
+# Python 3.14 
+# QuickTime Player.app 
+# Raspberry Pi Imager.app 
+# Rectangle.app 
+# Reminders.app 
+# Resolume Alley 
+# Resolume Arena 
+# Resolume Wire 
+# RODE Central.app 
+# Safari.app 
+# Shortcuts.app 
+# Siri.app 
+# SMART Mirror App.app 
+# Sourcetree.app 
+# Stickies.app 
+# Stocks.app 
+# Sublime Text.app 
+# SynfigStudio.app 
+# System Settings.app 
+# TextEdit.app 
+# Time Machine.app 
+# Tips.app 
+# TouchDesigner.app 
+# TV.app 
+# Unity Hub.app 
+# Utilities 
+# Visual Studio.app 
+# Visual Studio Code.app 
+# VLC.app 
+# VoiceMemos.app 
+# Wacom Tablet.localized 
+# Weather.app 
+# Wings3D.app 
+# Xcode.app 
+# Xerox PowerENGAGE.app 
+# XeroxPEInstallationCompanion.app 
+# zoom.us.app
